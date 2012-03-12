@@ -13,3 +13,7 @@ Contents
 *   `depth-ext.js` - a port of depth.js to an observable ExtJS singleton class
 *   `gallery.html` - a simple photo scroller
 *   `infinite-gallery.html` - an advanced photo scroller that can be fed a massive list of photos via JSON file
+
+Demo
+====
+See http://www.youtube.com/watch?v=3GVkILjkJeo for a brief clip of infinite-gallery.html in action
