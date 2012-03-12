@@ -10,7 +10,7 @@ Ext.define('KinectGallery', {
 	,imagesToLoad: 15
 	,backBuffer: 5
 	,slideWidth: 880
-	,imgSrcPrefix: '/gallery-photos/'
+	,imgSrcPrefix: 'http://placekitten.com/'//'/gallery-photos/'
 	
 	,velocityBase: 2.4
 	,frameRate: 100
