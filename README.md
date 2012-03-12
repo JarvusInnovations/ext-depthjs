@@ -9,7 +9,7 @@ ExtJS is released under the GPLv3 license: http://www.sencha.com/products/extjs/
 
 Contents
 ========
-depth.js - the original jQuery-powered API interface included with DepthJS
-depth-ext.js - a port of depth.js to an observable ExtJS singleton class
-gallery.html - a simple photo scroller
-infinite-gallery.html - an advanced photo scroller that can be fed a massive list of photos via JSON file
+*   `depth.js` - the original jQuery-powered API interface included with DepthJS (not used in this project, included for reference only)
+*   `depth-ext.js` - a port of depth.js to an observable ExtJS singleton class
+*   `gallery.html` - a simple photo scroller
+*   `infinite-gallery.html` - an advanced photo scroller that can be fed a massive list of photos via JSON file
