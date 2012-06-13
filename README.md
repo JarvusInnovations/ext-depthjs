@@ -16,4 +16,5 @@ Contents
 
 Demo
 ====
-See http://www.youtube.com/watch?v=3GVkILjkJeo for a brief clip of infinite-gallery.html in action
+*   See http://www.youtube.com/watch?v=3GVkILjkJeo for a brief clip of infinite-gallery.html in action
+*   Online versions of both example scripts are available here: http://depthjs.sites.emr.ge/ (DepthJS browser extension required)
